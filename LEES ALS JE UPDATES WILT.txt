@@ -1,0 +1,3 @@
+Als je updates wilt voor alles, dit betekent dat soms de .py of .exe script outdated kan zijn.
+Dit ga ik juist voorkomen want soms heeft een python scripts meer modellen nodig om goed te kunnen werken.
+Dus als je updates wilt moet je de .py of .exe die gedownload word door de oude .py of .exe gebruiken.
