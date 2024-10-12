@@ -1,0 +1,3 @@
+Wanneer we over een plat figuur met 4 hoekpunten spreken hebben we het over een vierhoek. De regel die hierbij hoort is als volgt wanneer je de 4 hoeken bij elkaar optelt zul je altijd op 360° uitkomen.
+
+Dit komt ook omdat je een 4 hoek in 2 drie hoeken kant verdelen 2 x 180 = 360
